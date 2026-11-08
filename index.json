@@ -1,0 +1,11 @@
+{
+  "org": "mne-tools",
+  "repo": "mne-installers",
+  "versions": [
+    {
+      "commit": "cc232046fde2a20f6bc851ee8ae3ee46cc4996fb",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:44:25.256209+00:00"
+    }
+  ]
+}
